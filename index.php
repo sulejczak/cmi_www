@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <p class="head">Zmiana w pliku index.php</p>
 </body>
 </html>
